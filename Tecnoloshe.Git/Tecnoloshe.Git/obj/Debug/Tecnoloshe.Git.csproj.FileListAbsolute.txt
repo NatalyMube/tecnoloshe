@@ -1,0 +1,10 @@
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\bin\Debug\Tecnoloshe.Git.exe.config
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\bin\Debug\Tecnoloshe.Git.exe
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\bin\Debug\Tecnoloshe.Git.pdb
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.csprojAssemblyReference.cache
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.Form1.resources
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.Properties.Resources.resources
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.csproj.GenerateResource.cache
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.csproj.CoreCompileInputs.cache
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.exe
+C:\Repositorio\tecnoloshe\Tecnoloshe.Git\Tecnoloshe.Git\obj\Debug\Tecnoloshe.Git.pdb
