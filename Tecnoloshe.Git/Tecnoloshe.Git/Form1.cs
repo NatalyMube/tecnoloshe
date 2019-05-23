@@ -18,12 +18,17 @@ namespace Tecnoloshe.Git
             InitializeComponent();
         }
 
-        private void Button1_Click(object sender, EventArgs e)
+        private async void Button1_Click(object sender, EventArgs e)
         {
+            //Tareas tarea = new Tareas();
+            //long n= tarea.num();
+            //label1.Text = n.ToString();
             Tareas tarea = new Tareas();
-            long n= tarea.num();
+            await Task.Run(() =>
+            {
+                long n = tarea.num();
+            });
             label1.Text = n.ToString();
-            
         }
 
         private void Button2_Click(object sender, EventArgs e)
